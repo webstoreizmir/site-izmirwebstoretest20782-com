@@ -1,7 +1,11 @@
 {
   "metadata": {
     "title": "İzmir Webstore | Profesyonel Web Tasarım ve Yazılım Çözümleri",
-    "description": "İzmir Webstore ile işletmenizi dijitale taşıyın. Girişimciler ve küçük işletmeler için özel web tasarım, e-ticaret ve SEO hizmetleri sunuyoruz."
+    "description": "İzmir Webstore ile işletmenizi dijitale taşıyın. Girişimciler ve küçük işletmeler için özel web tasarım, e-ticaret ve SEO hizmetleri sunuyoruz.",
+    "isPaid": true,
+    "demoMode": false,
+    "lastUpdate": "2026-01-14T20:14:22.827Z",
+    "activatedAt": "2026-01-14T20:14:22.827Z"
   },
   "theme": {
     "colors": {
@@ -114,5 +118,6 @@
       "phone": "05541103132",
       "email": "info@izmirwebstore.com"
     }
-  }
+  },
+  "is_paid": true
 }
